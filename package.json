@@ -1,5 +1,5 @@
 {
-  "name": "discourse-sdk",
+  "name": "discourse-siw-sdk",
   "version": "1.0.0",
   "description": "This npm module allows to consume the discourse api",
   "main": "index.js",
